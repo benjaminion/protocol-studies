@@ -201,6 +201,7 @@ Devops
 devp
 Devs
 DEX
+DHT
 Diffie
 DILITHIUM
 Dimitar
@@ -432,6 +433,7 @@ Lamport
 Lamport's
 lceil
 ldots
+Leffew
 Lefteris
 leftarrow
 leq
